@@ -1,0 +1,3 @@
+# deployment requirements
+# git+https://github.com/pointtonull/doglessdata.git#egg=doglessdata
+# jsonschema

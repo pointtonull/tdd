@@ -1,0 +1,7 @@
+{
+    "name": "Thingy",
+    "slug": "{{ cookiecutter.name.lower().replace(' ', '_').replace('-', '_') }}",
+    "src_name": "src",
+
+    "description": "Simple thingy wrapper designed with concurrency in mind."
+}
